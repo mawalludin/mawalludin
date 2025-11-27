@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTNuMG9mcWV5MGlibnExd3hwY3FlaWlrYjM1Nmg1ODl4ZnltNXZjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7BehnhpVTJDqekt6qX/giphy.gif)]()
+[![Header](img/github-header-banner.png)]()
+<p align="center">
+    <a href="https://github.com/leviarista">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviarista&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Leví Arista's GitHub Stats" />
+    </a>
+</p>
