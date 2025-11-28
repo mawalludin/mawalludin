@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRhc3c5c2FjeXVsZXF3eDI2MnZnMHBzbnV4MGdsMXRtcWh0MzdmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iEvurFqFwYa3Nfs0N4/giphy.gif)]()
+[![Header](img/github-header.png)]()
 <!-- <p align="center">
     <a href="https://github.com/mawalludin">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mawalludin&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117"/>
